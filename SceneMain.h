@@ -2,6 +2,7 @@
 
 #include "player.h"
 
+// ƒNƒ‰ƒXŠÖ”
 class SceneMain
 {
 public:
