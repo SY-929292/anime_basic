@@ -22,7 +22,7 @@ public:
 private:
 
 	// プレイヤーのグラフィックハンドル
-	int m_hPlayerGraphic;
+	int m_hPlayerGraphic[Player::kGraphicDivNum];
 	// プレイヤー
 	Player m_player;
 };
